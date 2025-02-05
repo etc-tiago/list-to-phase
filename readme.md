@@ -14,7 +14,7 @@ npm install list-to-sentence
 ## Usage
 
 ```js
-const listToSentence = require('list-to-sentence');
+import listToSentence from 'list-to-sentence';
 
 listToSentence(['a', 'b', 'c']);
 //=> 'a, b e c'

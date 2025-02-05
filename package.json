@@ -1,8 +1,9 @@
 {
   "name": "list-to-sentence",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a list of words to a sentence",
-  "main": "index.js",
+  "type": "module",
+  "main": "index.mjs",
   "types": "index.d.ts",
   "repository": {
     "type": "git",

@@ -1,4 +1,4 @@
-module.exports = (list, options = {
+export default (list, options = {
   conjunction: ' e ',
   separator: ', ',
 }) => {
