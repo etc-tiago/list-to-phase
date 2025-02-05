@@ -1,0 +1,14 @@
+{
+  "name": "list-to-sentence",
+  "version": "1.0.0",
+  "description": "Convert a list of words to a sentence",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etc-tiago/list-to-sentence.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
